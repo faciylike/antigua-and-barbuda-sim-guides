@@ -1,2 +1,3 @@
 # antigua-and-barbuda-sim-guides
-Antigua and Barbuda SIM/phone card guides
+
+全球通信 README（占位）
