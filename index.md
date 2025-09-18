@@ -70,3 +70,10 @@ layout: default
 
 　　总之，在安提瓜保持联网并不复杂。无论是选择本地实体卡追求性价比，还是拥抱eSIM图个方便，提前做点小功课，就能让你的整个旅程更加顺畅自在。现在，放心去享受阳光、沙滩和三百六十五个海滩吧！
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Antigua And Barbuda eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/antigua-and-barbuda-data-plans)
